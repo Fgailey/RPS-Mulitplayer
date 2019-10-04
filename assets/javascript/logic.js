@@ -46,4 +46,3 @@ if (p1.rpsMove === rock && p2.rpsMove === scissors ||
         console.log("p2 win")
     }
 
-function esta
